@@ -1,5 +1,6 @@
 - 👋 Hey, I'm Salma Mohamud!
 - 🔭 I’m currently working on getting a bachelors degree in applied sciences.
-- 🌱 I currently intern at Ameriprise Financial. 
+- 🌱 I currently intern at Ameriprise Financial.
+- 💕 I am interested in UX design and creating things for user experiences. 
 - 👯 Fun fact about me is that my sister graduated from Harvard University!
 - 📫 How to reach me: moha1677@umn.edu
